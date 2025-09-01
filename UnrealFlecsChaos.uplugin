@@ -22,6 +22,10 @@
 	],
 	"Plugins": [
 		{
+			"Name": "FastGeoStreaming",
+			"Enabled": true
+		},
+		{
 			"Name": "SolidMacros",
 			"Enabled": true
 		},
